@@ -1,0 +1,9 @@
+.transactionTable{
+    width: 900px;
+    margin: 0 auto;
+}
+.head{
+   padding-top: 20px;
+    background-color: rgb(137, 137, 243);
+    text-transform: uppercase;
+}

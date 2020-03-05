@@ -1,0 +1,7 @@
+.table{
+    background-color: rgb(237, 245, 237);
+}
+.type::first-letter {
+    text-transform: uppercase;
+    color:#ff0000
+}
